@@ -43,7 +43,7 @@ section#posts .Titlemark{margin-right:8px;}
 section#posts .h3Title{height:38px; line-height:43px; padding-left:25px; color:#646464; background:url(../images/7--metProductH3.png) no-repeat left top; overflow:hidden;}
 section#posts .h3Title span{background:url(../images/7--h3Title.png) repeat-x left top; color:#fff; display:block; padding:0 10px;}
 section#posts .h3Title span b{background:url(../images/7--h3TitleB.png) no-repeat center top;; display:block;}
-section#posts .metMore{float:right; width:30px; height:5px; line-height:1000px; overflow:hidden; background:url(../images/7--more.png); margin:17px 20px 0px 0px;}
+section#posts .metMore{float:right; width:30px; height:5px; line-height:1000px; overflow:hidden; background:url(../images/more.png); margin:17px 20px 0px 0px;}
 section#posts .metProductBox{background:url(../images/7--metProductBox.png) repeat-y left top; padding:10px 35px;}
 *html section#posts .metProductBox{background:url(../images/7--metProductBox.png) repeat-y left top; padding:10px 35px; margin-top:-5px;}
 #indexcar ol{ position:absolute; width: 2012em; }
